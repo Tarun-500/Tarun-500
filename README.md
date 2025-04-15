@@ -1,4 +1,4 @@
-## Tarun Jain Resume
+<div align="center">
 
 ### TARUN JAIN  
 **Front End Developer | UI Developer | React.js**  
@@ -7,6 +7,9 @@
 🔗 [LinkedIn](https://www.linkedin.com/in/tarun-jain-18623116a/)  
 🌍 India  
 💻 [GitHub](https://github.com/Tarun-500)
+
+</div>
+
 
 ---
 
@@ -37,7 +40,39 @@ Frontend Developer professional with over 3.5 years of experience in frontend de
 ---
 
 ### 🛠 Skills
-HTML • CSS • Bootstrap • JavaScript • React JS • Figma • GSAP • GitLab • GitHub • Vercel • AWS • UI Development • Designing Tools • Frontend Development
+<!-- HTML • CSS • Bootstrap • JavaScript • React JS • Figma • GSAP • GitLab • GitHub • Vercel • AWS • UI Development • Designing Tools • Frontend Development
+### 🛠 Skills -->
+
+<p>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI_Design-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend_Development-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+
+
+</p>
+
+---
+
+### 🌐 Languages
+
+- 🟢 **Hindi** – Native / Mother Tongue  
+- 🟡 **English** – Intermediate (Able to read, write, and communicate at a conversational level)
 
 ---
 
