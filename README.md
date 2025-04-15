@@ -5,8 +5,8 @@
 📞 7692950132  
 ✉️ shah.tarun500@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/tarun-jain-18623116a/)  
-🌍 India  
 💻 [GitHub](https://github.com/Tarun-500)
+🌍 Indore India  
 
 </div>
 
