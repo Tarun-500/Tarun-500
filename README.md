@@ -6,14 +6,18 @@
 ## 👋 Hi, I'm Tarun Jain
 
 Frontend Developer | React.js | UI Designer  
+
 ![Profile views](https://komarev.com/ghpvc/?username=Tarun-500&label=Profile%20views&color=0e75b6&style=flat)
 
 
 
 📞 **Phone:** 7692950132  
 ✉️ **Email:** shah.tarun500@gmail.com  
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-jain-18623116a/)  
+
+🔗  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-jain-18623116a/)  
+
 🎨 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://www.behance.net/tarun-500)  
+
 💻 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Tarun-500)
 
 🌍 **Location:** Indore, India  
