@@ -97,7 +97,7 @@ Master of Computer Applications (AI/ML)
 **Arena Animation**  
 Graphic and Web Design and Development  
 📅 *08/2019 - 10/2021*
-
+ 
 ---
 
 ### 🚀 Projects
