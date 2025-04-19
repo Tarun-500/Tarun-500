@@ -5,7 +5,7 @@
 
 ## 👋 Hi, I'm Tarun Jain
 
-Frontend Developer | React.js | UI Designer  
+Frontend Developer | React.js | UI Designer and Developer
 
 ![Profile views](https://komarev.com/ghpvc/?username=Tarun-500&label=Profile%20views&color=0e75b6&style=flat)
 
