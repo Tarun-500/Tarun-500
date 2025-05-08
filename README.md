@@ -32,10 +32,14 @@ Frontend Developer professional with over 3.5 years of experience in frontend de
 ---
 
 ### 💼 Experience
+#### GAMMASTACK – Banglore, India  
+**UI Developer**  
+📅 *04/2025 - Present*  
+
 
 #### Task Source – Indore, India  
 **Frontend Developer**  
-📅 *07/2024 - Present*  
+📅 *07/2024 - 03/2025*  
 - Worked on an e-commerce platform ensuring seamless product listings, user interactions, and overall design responsiveness.
 - Created modern, visually appealing, and performance-optimized user interfaces.
 - Collaborated with backend developers for API integration.
