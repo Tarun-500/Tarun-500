@@ -20,9 +20,7 @@ Frontend Developer | React.js | UI Designer and Developer
 
 🌍 **Location:** Indore, India  
 
-
 </div>
-
 
 ---
 
@@ -35,7 +33,6 @@ Frontend Developer professional with over 3.5 years of experience in frontend de
 #### GAMMASTACK – Banglore, India  
 **UI Developer**  
 📅 *04/2025 - Present*  
-
 
 #### Task Source – Indore, India  
 **Frontend Developer**  
@@ -80,8 +77,6 @@ Frontend Developer professional with over 3.5 years of experience in frontend de
 <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-
-
 </p>
 
 ---
