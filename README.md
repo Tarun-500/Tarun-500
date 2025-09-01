@@ -18,7 +18,7 @@ Frontend Developer | React.js | UI Designer and Developer
 
 🎨 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://www.behance.net/tarun-500) 
 
-🌍 **Location:** Indore, India  
+🌍 **Location:** Banglore, India  
 
 </div>
 
